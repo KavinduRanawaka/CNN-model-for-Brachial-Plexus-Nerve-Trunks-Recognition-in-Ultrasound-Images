@@ -1,4 +1,4 @@
 # CNN-model-for-Brachial-Plexus-Nerve-Trunks-Recognition-in-Ultrasound-Images
--Download Dataset: Download the dataset from the provided link (https://drive.google.com/file/d/1i3ZVQHnRMrq6igUN-ZZ0xM1JF5_NBgex/view?usp=drive_link). 
+-Download Dataset: Download the dataset from the provided link (https://drive.google.com/file/d/1xMdKyX9k-Fi_vI5Tz-8qDDjFVn6iZGv4/view?usp=drive_link). 
 
 
