@@ -48,7 +48,7 @@ Thank you for contributing to our project!
 We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to share your experience with our project, please don't hesitate to let us know.
 
 - You can report issues or bugs by creating a new issue on GitHub.
-- If you've found a bug and fixed it, or improve the model, we welcome pull requests! Please see the [Contributing](##contributing) section for more details.
+- If you've found a bug and fixed it, or improve the model, we welcome pull requests! Please see the [Contributing](#contributing) section for more details.
 
 Your feedback helps us improve our project and better meet the needs of our users. Thank you for your support!
 
