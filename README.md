@@ -18,7 +18,7 @@ ResU-Net and Inception+U-Net are advanced adaptations of the U-Net architecture 
 ![Inc+ResU-Net](https://github.com/NHMSudara/CNN-model-for-Brachial-Plexus-Nerve-Trunks-Recognition-in-Ultrasound-Images/blob/master/Inc+ResU-Net.png?raw=true)
 ## Contributing
 
-We welcome contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
+We welcome 🤩 contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository on GitHub.
 2. Clone the forked repository to your local machine.
