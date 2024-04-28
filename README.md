@@ -42,7 +42,7 @@ We welcome contributions from the community! If you'd like to contribute to this
     - Include a detailed description of your changes in the pull request.
     - Be prepared to address any feedback or comments from the maintainers.
 
-Thank you for contributing to our project!
+Thank you for contributing to improve model!
 ## Feedback
 
 We value your feedback! If you encounter any issues, have suggestions for improvement, or would like to share your experience with our project, please don't hesitate to let us know.
