@@ -41,7 +41,6 @@ We welcome 🤩 contributions from the community! If you'd like to contribute to
 6. Create a pull request from your fork to the original repository.
     - Include a detailed description of your changes in the pull request.
     - Be prepared to address any feedback or comments from the maintainers.
-
 Thank you for contributing to improve model!
 ## Feedback
 
