@@ -17,7 +17,6 @@ The U-Net architecture is a convolutional neural network (CNN) designed for sema
 ResU-Net and Inception+U-Net are advanced adaptations of the U-Net architecture for medical image segmentation. ResU-Net utilizes residual blocks to mitigate vanishing gradients and enhance fine detail capture, while Inception+U-Net combines U-Net with Inception modules for improved multi-scale feature extraction and segmentation accuracy. The Inc+ResU-Net model, created by combining residual and Inception blocks, effectively addresses issues like vanishing gradients and enhances feature extraction.
 ![Inc+ResU-Net](https://github.com/NHMSudara/CNN-model-for-Brachial-Plexus-Nerve-Trunks-Recognition-in-Ultrasound-Images/blob/master/Inc+ResU-Net.png?raw=true)
 ## Contributing
-
 We welcome 🤩 contributions from the community! If you'd like to contribute to this project, please follow these guidelines:
 
 1. Fork the repository on GitHub.
